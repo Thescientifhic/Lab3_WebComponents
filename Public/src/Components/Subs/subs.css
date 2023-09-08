@@ -1,0 +1,176 @@
+section {
+    font-family: 'Roboto', sans-serif;
+}
+
+.plans {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 200px 110px 30px 110px;
+}
+
+.buttons {
+    margin-left: 10px;
+    padding: 2px;
+    border-radius: 2px;
+    background-color: rgb(33, 33, 33);
+    height: 35px;
+}
+
+.button1{
+    background-color: #fff;
+    font-weight: bold;
+    border: none;
+    width: 120px;
+    height: 35px;
+    border-radius: 2px;
+}
+
+.button2{
+    background-color: transparent;
+    color: #ffffff;
+    font-weight: bold;
+    border: none;
+    width: 120px;
+    height: 30px;
+    border-radius: 2px;
+}
+
+h1 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 110px 0px 110px;
+
+}
+
+.card {
+    padding: 20px;
+    display: inline-block;
+    margin: 0px 20px;
+    vertical-align: top;
+    width: 400px;
+    height: 520px;
+    box-sizing: border-box;
+    background-color: rgb(33, 33, 33);
+    align-items:flex-start;
+    justify-content: left;
+
+}
+
+h2 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 40px;
+    margin: 0px;
+}
+li{
+    font-size: 18px;
+}
+.info {
+    text-align: left;
+    display: block;
+}
+
+.info p {
+    font-weight: bold;
+}
+
+.info ul {
+    list-style-type: square;
+}
+
+.invoiced {
+    font-weight: lighter;
+    font-size: 10px;
+}
+
+.finish1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.finish2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 90px;
+}
+
+.finish3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 110px;
+}
+
+.btn1{
+    width: 360px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #006de1;
+    color: #fff;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+    padding: 10px 2px;
+    margin-left: 10px;
+    cursor: pointer;
+    margin: 0px 0px 5px 0px;
+}
+
+.btn1 :hover {
+    background-color: #003c7d;
+}
+
+.btn2{
+    width: 360px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #393939;
+    color: #fff;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+    padding: 10px 2px;
+    margin-left: 10px;
+    cursor: pointer;
+    margin: 0px 0px 5px 0px;
+}
+
+.btn2 :hover {
+    background-color: #858585;
+}
+.btn3{
+    width: 360px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: #006de1;
+    color: #fff;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+    padding: 10px 2px;
+    margin-left: 10px;
+    cursor: pointer;
+    margin: 0px 0px 5px 0px;
+}
+
+.btn3 :hover {
+    background-color: #003c7d;
+}
+h3{
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0px;
+}
